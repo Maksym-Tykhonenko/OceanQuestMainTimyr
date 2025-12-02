@@ -10,7 +10,7 @@ workflows:
             distribution_type: app_store
             bundle_identifier: com.calloceanapp.main
           vars:
-            APP_STORE_APPLE_ID: 6753932067
+            APP_STORE_APPLE_ID: 6755768002
             BUNDLE_ID: "com.calloceanapp.main"
             XCODE_WORKSPACE: "CallOcean.xcworkspace"
             XCODE_SCHEME: "CallOcean"
